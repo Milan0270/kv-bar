@@ -2,7 +2,8 @@ body{background-color:rgb(221, 187, 123);}
 .menu{background-color:rgb(199, 117, 59);
       height: 65px;}
 a{text-decoration: none;
-  color: black;}
+  color: black;
+  padding: 10px;}
 
 
 
