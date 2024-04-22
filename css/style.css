@@ -2,7 +2,9 @@ body{background-color:rgb(221, 187, 123);}
 .menu{background-color:rgb(199, 117, 59);
       height: 5%;}
 a{text-decoration: none;
-  color: black;}
+  color: black;
+  padding: 10px;
+  width: 50px}
 
 
 
@@ -15,7 +17,6 @@ li{margin-left: 20px;
 a:hover{background-color: rgb(92, 64, 51);
         border-radius: 10px;
         color: white;
-        padding: 10px;
         animation-name: animation;
         animation-duration: 0.7s;}
 #selected{background-color: rgb(92, 64, 51);
@@ -30,17 +31,3 @@ a:hover{background-color: rgb(92, 64, 51);
 .icon{width: 4%;
         margin-right: 10px;
         margin-bottom: 5px;}
-
-p{text-align: justify;}
-
-.asztalfoglalas{margin-top: 3%;
-                width: 90%;}
-
-.rolunk{margin-top: 2%;
-        width: 90%;}
-
-.card{margin-right: 10px;
-      width: 30%;}
-
-.card img{padding-top: 10px;
-          padding-bottom: 10px;}
