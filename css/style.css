@@ -34,9 +34,9 @@ a:hover{background-color: rgb(92, 64, 51);
 .rolunk{margin-top: 5%}
 .asztalfoglalas{margin-top: 5%}
 h1{text-align: center;}
-.card{padding-top: 10px;
-      padding-bottom: 10px;
-      width: 30%;
+.card{width: 30%;
       margin-left: 10px;}
 p{width: 90%;
   text-align: justify;}
+.card img{padding-top: 10px;
+      padding-bottom: 10px;}
