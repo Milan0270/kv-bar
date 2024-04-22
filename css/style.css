@@ -31,5 +31,12 @@ a:hover{background-color: rgb(92, 64, 51);
 .icon{width: 4%;
         margin-right: 10px;
         margin-bottom: 5px;}
-.rolunk{margin-top: 3%}
-.asztalfoglalas{margin-top: 3%}
+.rolunk{margin-top: 5%}
+.asztalfoglalas{margin-top: 5%}
+h1{text-align: center;}
+.card{padding-top: 10px;
+      padding-bottom: 10px;
+      width: 30%;
+      margin-left: 10px;}
+p{width: 90%;
+  text-align: justify;}
