@@ -1,6 +1,6 @@
 body{background-color:rgb(221, 187, 123);}
 .menu{background-color:rgb(199, 117, 59);
-      height: 65px;}
+      height: 5%;}
 a{text-decoration: none;
   color: black;}
 
@@ -9,6 +9,7 @@ a{text-decoration: none;
 li{margin-left: 20px;
    margin-right: 20px;
    padding-top: 10px;
+   margin-top: 10px;
    display: inline-block;}
 
 a:hover{background-color: rgb(92, 64, 51);
@@ -29,3 +30,17 @@ a:hover{background-color: rgb(92, 64, 51);
 .icon{width: 4%;
         margin-right: 10px;
         margin-bottom: 5px;}
+
+p{text-align: justify;}
+
+.asztalfoglalas{margin-top: 3%;
+                width: 90%;}
+
+.rolunk{margin-top: 2%;
+        width: 90%;}
+
+.card{margin-right: 10px;
+      width: 30%;}
+
+.card img{padding-top: 10px;
+          padding-bottom: 10px;}
