@@ -44,3 +44,6 @@ img{padding-top: 10px;
 footer{background-color: rgb(92, 64, 51);
        min-height: 300px;
        width: 100%;}
+
+#lablec{width: 90%;
+        text-align: center;}
