@@ -14,7 +14,7 @@ li{margin-left: 20px;
    margin-top: 10px;
    display: inline-block;}
 
-a:hover{background-color: rgb(92, 64, 51);
+.menuelem:hover{background-color: rgb(92, 64, 51);
         border-radius: 10px;
         color: white;
         animation-name: animation;
@@ -46,4 +46,13 @@ footer{background-color: rgb(92, 64, 51);
        width: 100%;}
 
 #lablec{width: 90%;
-        text-align: center;}
+        text-align: center;
+        color: rgb(221, 187, 123)}
+#lablec p{ margin-left: 35%;}
+#lablec h2{ text-align: center;}
+
+.fa{ color:rgb(221, 187, 123) ;}
+#nyitvatartas{line-height: 85%;}
+.bottom{width: 90%;
+        text-align: center;
+        color: rgb(221, 187, 123)}
