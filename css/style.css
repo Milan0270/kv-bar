@@ -62,7 +62,8 @@ footer{background-color: rgb(92, 64, 51);
 
 #fagyi{ margin-left: auto;
         margin-right: auto;
-       }
+       width: 550px;
+        height: 590px;}
 
 td{text-align: center;
         font-size: larger;
@@ -71,13 +72,16 @@ td{text-align: center;
 .fagyifoto{ display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 300px;
-        height: 320px;}
+        width: 330px;
+        height: 350px;}
 
 .fagy{font-size: larger;
         margin-left: 92px;}
+        
 h3{margin-left: 92px;}
 
-.leiras li{font-size: small;
+.leiras li{font-size:large;
         list-style-type: circle;}
 .row{margin-bottom:35px; ;}
+.fay{font-size: 240%;
+        text-align: center;}
