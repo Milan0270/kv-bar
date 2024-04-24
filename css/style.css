@@ -75,13 +75,17 @@ td{text-align: center;
         width: 330px;
         height: 350px;}
 
-.fagy{font-size: larger;
-        margin-left: 92px;}
+.fagy{font-size: 30px;;
+        margin-left: 70px;}
         
-h3{margin-left: 92px;}
+h3{margin-left: 70px;
+        font-size: 40px;}
 
 .leiras li{font-size:large;
-        list-style-type: circle;}
+        list-style-type: circle;
+        color: bisque;}
 .row{margin-bottom:35px; ;}
 .fay{font-size: 240%;
         text-align: center;}
+.content{background-image:url(../img/free-bake-sale-pattern-2.jpg);}
+.card{background-color: rgb(92, 64, 51);}
