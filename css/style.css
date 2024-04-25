@@ -65,8 +65,9 @@ footer{background-color: rgb(92, 64, 51);
 
 #fagyi{ margin-left: auto;
         margin-right: auto;
-        width: 400px;
-        height: 70%px;}
+        min-width: 30%;
+        height: auto;
+        color: rgb(221, 187, 123);}
 
 td{text-align: center;
         font-size: larger;
@@ -75,8 +76,8 @@ td{text-align: center;
 .fagyifoto{ display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 330px;
-        height: 350px;}
+        width: auto;
+        height: 250px;}
 
 .fagy{font-size: 30px;;
         margin-left: 70px;}
@@ -93,7 +94,7 @@ h3{margin-left: 70px;
 .content{background-image:url(../img/coffee-4058899_1280.png);
         background-size: 20%;}
 .card{background-color: rgb(92, 64, 51);}
-.tartalom{width: 80%;
+.tartalom{width: 90%;
           margin-left: auto;
           margin-right: auto;
           padding: 30px;
