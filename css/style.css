@@ -67,7 +67,8 @@ footer{background-color: rgb(92, 64, 51);
         margin-right: auto;
         min-width: 30%;
         height: auto;
-        color: rgb(221, 187, 123);}
+        color: rgb(221, 187, 123);
+        font-size: 1rem;}
 
 td{text-align: center;
         font-size: larger;
@@ -76,9 +77,13 @@ td{text-align: center;
 .fagyifoto{ display: block;
         margin-left: auto;
         margin-right: auto;
-        width: auto;
-        height: 250px;}
-
+        width: 70%;
+        height: 300px;}
+.kavefoto{ display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        height: auto;}
 .fagy{font-size: 30px;;
         margin-left: 70px;}
         
